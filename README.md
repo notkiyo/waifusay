@@ -2,6 +2,8 @@
 
 **WaifuSay** is a cursed version of `cowsay` that features anime waifus delivering dumb jokes, sarcastic roasts, and chaotic wisdom. It automatically detects your OS, installs dependencies, and sets up custom `.cow` files.
 
+![yo](https://i.imgur.com/gRRfCn4.png)
+
 ## 🎉 Features
 
 - ✅ **Anime-style ASCII cows** with ridiculous expressions
