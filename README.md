@@ -27,7 +27,7 @@ chmod +x install.sh
 Use `cowsay`:
 
 ```bash
-cowsay "Why is 'skip tutorial' never an option in real life?"
+cowsay -f waifu3 "Why is 'skip tutorial' never an option in real life?"
 ```
 
 Or pipe it for ✨ max chaos ✨:
