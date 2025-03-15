@@ -12,18 +12,11 @@
 
 ## 📦 Installation
 
-Run this magical command:
+
+###  Install Manually:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/yourusername/waifusay/main/install.sh | bash
-```
-
-(Replace `yourusername` with your actual GitHub username.)
-
-### Or Install Manually:
-
-```bash
-git clone https://github.com/yourusername/waifusay.git
+git clone https://github.com/notkiyo/waifusay.git
 cd waifusay
 chmod +x install.sh
 ./install.sh
@@ -31,16 +24,16 @@ chmod +x install.sh
 
 ## 🚀 Usage
 
-Use `waifusay` just like `cowsay`:
+Use `cowsay`:
 
 ```bash
-waifusay "Why is 'skip tutorial' never an option in real life?"
+cowsay "Why is 'skip tutorial' never an option in real life?"
 ```
 
 Or pipe it for ✨ max chaos ✨:
 
 ```bash
-echo "404: Motivation not found." | waifusay | lolcat
+echo "404: Motivation not found." | cowsay | lolcat
 ```
 
 ## 🔧 Uninstall
@@ -48,7 +41,7 @@ echo "404: Motivation not found." | waifusay | lolcat
 If you ever regret installing this:
 
 ```bash
-rm -rf /usr/share/cowsay/cows/waifu*
+rm -rf /usr/share/cowsay/cows*
 rm -rf ~/.waifusay
 ```
 
