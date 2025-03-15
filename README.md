@@ -16,6 +16,7 @@
 ###  Install Manually:
 
 ```bash
+# install cowsay , lolcat , figlet
 git clone https://github.com/notkiyo/waifusay.git
 cd waifusay
 chmod +x install.sh
